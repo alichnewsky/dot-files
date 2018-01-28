@@ -1,0 +1,25 @@
+# anything with a whiff of credentials
+.ssh
+.netrc
+.git-credential-cache
+.boto
+.config
+.Xauthority
+.gnupg
+.gnupg2
+.gpg
+.p4*
+.gsutil
+.oauth2l.token
+.dockercfg
+*~
+.DS_Store
+.bash_history
+.m2
+.nx
+.boot2docker
+.continuum
+.cache
+.Trash
+.cups
+.viminfo
